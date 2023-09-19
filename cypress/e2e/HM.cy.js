@@ -8,6 +8,7 @@ import MainPageExample from "../pageObject/MainPageExample";
   let storedTshirtPrice;
   let comparedTshirtPrice;
   let a;
+  
   const typeTshirt = "T-shirt";
   const secondChoose = 2;
 
